@@ -8,4 +8,6 @@ This dashboard visualizes:
    - CDC BRFSS (2019–2023)
    - U.S. Census Bureau SAIPE (2019–2023)
 
-Built in Tableau, cleaned and published by Geo Monteshttps://public.tableau.com/views/ObesityPovertyandIncomeintheU_S_2019-2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Built in Tableau, cleaned and published by Geo Montes
+
+https://public.tableau.com/views/ObesityPovertyandIncomeintheU_S_2019-2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
